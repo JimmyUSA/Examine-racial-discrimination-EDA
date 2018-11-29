@@ -1,1 +1,1 @@
-# examine-racial-discrimination-EDA
+# Examine-racial-discrimination-EDA
